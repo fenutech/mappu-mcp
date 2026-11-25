@@ -1,0 +1,18 @@
+{
+  "name": "mappu",
+  "displayName": "Mappu",
+  "version": "1.0.0",
+  "description": "Plan a trip with Claude and keep it in Mappu as a day-by-day itinerary on a map, and find Mappu's free self-guided walks and audio guides.",
+  "author": {
+    "name": "Fenutech",
+    "email": "support@mappu.ai",
+    "url": "https://www.mappu.ai"
+  },
+  "homepage": "https://www.mappu.ai/assistants",
+  "keywords": ["travel", "trip planner", "itinerary", "walking tours", "audio guides", "mcp"],
+  "icon": "./icon.png",
+  "documentationUrl": "https://www.mappu.ai/assistants",
+  "supportUrl": "https://www.mappu.ai/assistants",
+  "privacyPolicyUrl": "https://www.mappu.ai/privacy",
+  "termsOfServiceUrl": "https://www.mappu.ai/terms"
+}

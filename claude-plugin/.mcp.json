@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mappu": {
+      "type": "http",
+      "url": "https://api.mappu.ai/mcp"
+    }
+  }
+}

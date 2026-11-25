@@ -1,0 +1,10 @@
+{
+  "name": "mappu",
+  "version": "1.0.0",
+  "description": "Mappu travel: free audio guides, self-guided walks and day-by-day trip plans on a map.",
+  "mcpServers": {
+    "mappu": {
+      "httpUrl": "https://api.mappu.ai/mcp"
+    }
+  }
+}
