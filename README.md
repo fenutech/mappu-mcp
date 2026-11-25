@@ -42,6 +42,8 @@ claude mcp add --transport http mappu https://api.mappu.ai/mcp
 gemini extensions install https://github.com/fenutech/mappu-mcp
 ```
 
+**Cline:** see [`llms-install.md`](llms-install.md) (use `"type": "streamableHttp"`).
+
 **Cursor, VS Code and other MCP clients**
 
 ```json
