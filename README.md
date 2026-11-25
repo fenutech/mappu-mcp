@@ -10,7 +10,7 @@
 - **Registry:** listed in the official MCP Registry as `ai.mappu/public-travel`.
 - **Languages:** English, Spanish, French, German, Italian, Portuguese, Japanese and Traditional Chinese.
 
-The Mappu service itself is a Fenutech product and isn't open source. This repository only contains configuration and documentation.
+The Mappu service itself isn't open source. This repository only contains configuration and documentation.
 
 ## Tools
 
@@ -70,4 +70,4 @@ All tools except `mappu_save_trip_plan` only read public Mappu pages. Saving a p
 
 ## Licence
 
-The configuration and documentation in this repository are MIT-licensed. Mappu and the Mappu service are © Fenutech.
+The configuration and documentation in this repository are MIT-licensed. Mappu and the Mappu service are © Andrea Fenu.
